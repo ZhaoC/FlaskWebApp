@@ -9,7 +9,7 @@ Third Party Library used:
 - [`SQLAlchemy`](http://www.sqlalchemy.org/)
 - `geocode`
 - [`gunicorn`](http://gunicorn.org/)
-- [`psycopg2`(http://initd.org/psycopg/)
+- [`psycopg2`](http://initd.org/psycopg/)
 
 Link to [Flask Extentions](http://flask.pocoo.org/extensions/) for more details.
 
