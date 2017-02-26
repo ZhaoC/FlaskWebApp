@@ -1,4 +1,5 @@
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/ZhaoC/FlaskWebApp/blob/master/LICENSE.md)
+[![Build Status](https://travis-ci.org/ZhaoC/FlaskWebApp.svg?branch=master)](https://travis-ci.org/ZhaoC/FlaskWebApp)
 ## __FlaskWebApp__
 
 > This is an web application built on top of Flask framework. App has been deployed to Heroku
